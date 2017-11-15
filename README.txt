@@ -10,4 +10,4 @@ More information about the project is available on the project blog:
 http//blogs.oii.ox.ac.uk/vis/
 
 
-—сылка https://hotpotato007.github.io/DL_homework_6/
+LINK  https://hotpotato007.github.io/DL_homework_6/
